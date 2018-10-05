@@ -37,12 +37,3 @@ object DifferenceOfSquares{
     totalDifference
   }
 }
-
-// Testing the code
-
-var sumOfsq = DifferenceOfSquares.sumOfSquares(10)
-var sqOfsum = DifferenceOfSquares.squareOfSum(10)
-
-println(DifferenceOfSquares.squareOfSum(10))
-println(DifferenceOfSquares.sumOfSquares(10))
-println(DifferenceOfSquares.differenceOfSquares(10))
